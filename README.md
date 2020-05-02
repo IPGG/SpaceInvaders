@@ -8,4 +8,4 @@ $ pip3 install pygame\
 \
 Launch commands in Linux:\
 $ cd *filepath/*\
-$ python3 SpaceInvaders.py\
+$ python3 SpaceInvaders.py
